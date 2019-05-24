@@ -21,5 +21,7 @@ This app uses the image_picker plugin to access the camera take the image and st
 
 The video store is still under construcction feel free to contribute and send a pull request as i am personally tring to figure out the way to play video using image_picker 
 
+![WhatsApp Image 2019-05-24 at 6 53 37 PM](https://user-images.githubusercontent.com/43104796/58330934-9d6d0b80-7e55-11e9-9d82-11831caf74a2.jpeg)
+
 
 
