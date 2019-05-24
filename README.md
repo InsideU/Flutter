@@ -24,4 +24,10 @@ The video store is still under construcction feel free to contribute and send a 
 ![WhatsApp Image 2019-05-24 at 6 53 37 PM](https://user-images.githubusercontent.com/43104796/58330934-9d6d0b80-7e55-11e9-9d82-11831caf74a2.jpeg)
 
 
+###  This is the image of stored file after capturing the image from the camera
+
+
+![testimage](https://user-images.githubusercontent.com/43104796/58331233-46b40180-7e56-11e9-831a-be4d13ff3287.jpeg)
+
+
 
